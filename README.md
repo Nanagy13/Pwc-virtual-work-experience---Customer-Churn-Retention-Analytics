@@ -36,7 +36,7 @@ Data was provided by pwc
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
 ## Data visualization 
- ![Alt](
+ ![Alt](Screenshot_20241022_090747.jpg)
  
 ## Results/Findings
 
