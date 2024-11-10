@@ -1,3 +1,4 @@
+
  
 
 # Customer Churn Retention Analytics
@@ -71,22 +72,24 @@ The below measures were created in DAX:
  
 ## Results/Findings
 
-- The dashboard shows a balanced diversity effort in terms of target hires, with most departments achieving nearly 50/50 gender representation, except in more senior roles where the male population is higher.
+- There are 1,869 customers who have churned, indicating a high churn rate.
 
-- The average time in job levels indicates that men spend more time in junior roles before being promoted to senior positions, whereas women are promoted more quickly to higher levels.
+- The company faces more technical issues, with 2,955 tech tickets compared to 3,632 admin tickets, suggesting a need to enhance technical support.
 
-- Promotion rates for women are lower compared to men, suggesting there could be underlying bias or structural barriers in career progression.
+- Annual revenue stands at $16.06M with monthly charges totaling $456.12K, indicating a subscription-based revenue model.
 
-- Turnover rates are highest in the sales and marketing departments and are particularly high among younger employees, which may indicate dissatisfaction or lack of growth opportunities in these areas.
+- A majority of customers are on month-to-month contracts, which may be contributing to the churn problem.
 
-- Women make up a higher percentage of recent hires, but their turnover rate is concerning, particularly in technical roles where they remain underrepresented.
+- Electronic checks are the most popular payment method, followed by credit cards, while paperless billing has low adoption.
+
+- Most customers use phone services (91%) and streaming TV (44%), but only 29% have device protection services, which presents an upselling opportunity
 
 ## Recommendations
 
-- Increase mentorship and leadership development programs aimed at women in junior and mid-level positions to balance the promotion rates between genders.
+- Focus on converting month-to-month contract users to longer-term plans through incentives or loyalty programs to reduce churn.
 
-- Analyze the high turnover rates in sales and marketing departments to understand the underlying causes and address any issues related to job satisfaction, career growth, or work-life balance.
+- Improve technical support processes to address the high number of tech tickets. Introducing self-service options or AI-based troubleshooting could also help.
 
-- Encourage greater retention of women in technical roles by providing more opportunities for career development and creating a more supportive working environment.
+- Promote low-uptake services like device protection and online backup to existing customers to increase revenue.
 
--Introduce additional programs to retain younger employees, such as clear career advancement paths or job enrichment opportunities.
+- Encourage more customers to adopt paperless billing and automatic payment methods through discounts or convenience incentives.
